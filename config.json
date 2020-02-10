@@ -1,0 +1,6 @@
+{
+	"desc": "迁移自weexplus组件，可以拖拽，因为weex对手势支持的不好，此组件采用原生编写效果还可以。",
+	"requireFormatName": "eeuiSeekbar",
+	"requireName": "eeui/seekbar",
+	"title": "进度条"
+}

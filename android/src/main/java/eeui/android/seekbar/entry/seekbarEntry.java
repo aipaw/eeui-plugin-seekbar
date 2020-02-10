@@ -18,7 +18,7 @@ public class seekbarEntry {
     public void init(Context content) {
 
         try {
-            WXSDKEngine.registerComponent("seekbar", AppSeekBar.class);
+            WXSDKEngine.registerComponent("eeuiSeekbar", AppSeekBar.class);
         } catch (WXException e) {
             e.printStackTrace();
         }
